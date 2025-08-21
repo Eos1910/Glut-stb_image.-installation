@@ -1,6 +1,6 @@
 # Glut-stb_image.-installation
 
-<h2>🖼️ Image Loading with stb_image.h</h2>
+<h2>Image Loading with stb_image.h</h2>
 
 <p>
   <strong><code>stb_image.h</code></strong> is a lightweight, header-only image loading library used to load images like PNG and JPEG into your OpenGL projects.
@@ -16,7 +16,7 @@
   <li>Right-click <code>Raw</code> → Save As → Place it in your project directory (e.g., <code>libs/</code>).</li>
 </ul>
 
-<h3>📦 Usage</h3>
+<h3>Usage</h3>
 <pre><code>#define STB_IMAGE_IMPLEMENTATION
 #include "stb_image.h"
 </code></pre>
@@ -26,7 +26,7 @@
 </p>
 
 
-<h3>🛠️ Compiler Note</h3>
+<h3>Compiler Note</h3>
 <p>
   No need to link any special libraries for <code>stb_image</code>. It is a self-contained header file.
 </p>
