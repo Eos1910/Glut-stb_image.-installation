@@ -25,18 +25,6 @@
   This must be written in one (and only one) of your source files to implement the functionality.
 </p>
 
-<h3>📁 Suggested Directory Structure</h3>
-<pre>
-ProjectRoot/
-├── main.cpp
-├── textureLoader.cpp
-├── textureLoader.h
-├── libs/
-│   └── stb_image.h
-├── assets/
-│   └── texture.jpg
-└── README.md
-</pre>
 
 <h3>🛠️ Compiler Note</h3>
 <p>
