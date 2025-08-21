@@ -6,7 +6,7 @@
   <strong><code>stb_image.h</code></strong> is a lightweight, header-only image loading library used to load images like PNG and JPEG into your OpenGL projects.
 </p>
 
-<h3>📥 Download</h3>
+<h3>Download</h3>
 <ul>
   <li>Go to the official repository: 
     <a href="https://github.com/nothings/stb/blob/master/stb_image.h" target="_blank">
